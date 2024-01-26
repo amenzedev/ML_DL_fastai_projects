@@ -7,3 +7,6 @@ pandas
 scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
+
+# used -> mamba install scikit-learn
+# azure-cognitiveservices not installed
